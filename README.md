@@ -1,3 +1,1 @@
-# AI-Dropshipping-Bot numpy  
-pandas  
-scikit-learn  
+# AI-Dropshipping-Bot
